@@ -1,11 +1,11 @@
 {
-    "name": "astronphp/orm",
+    "name": "dezworkastronphp/orm",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "support": {
-        "issues": "https://github.com/astronphp/orm/issues",
-        "source": "https://github.com/astronphp/orm/"
+        "issues": "https://github.com/dezworkastronphp/orm/issues",
+        "source": "https://github.com/dezworkastronphp/orm/"
     },
     "config": {
         "sort-packages": true
